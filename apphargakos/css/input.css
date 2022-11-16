@@ -1,0 +1,18 @@
+#permintaan, #persediaan, #proses, #hasil {
+    margin-bottom: 20px;
+    border: 3px solid red;
+    padding: 10px;
+    font-size: 20px;
+}
+#proses{
+	background: red;
+	color: white;
+}
+
+table, tr, td{
+	border: 1px solid black;
+	padding: 10px 5px 10px 5px;
+}
+.proses{
+
+}
